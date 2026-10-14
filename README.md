@@ -8,6 +8,22 @@ The portal hides the Configuration service in the sidebar. It is included here b
 
 SDKs and Community pages on the site only say coming soon, so they are not copied.
 
+## Support documentation
+
+Markdown and original PDFs from [Extreme Platform ONE - Latest Documentation](https://supportdocs.extremenetworks.com/support/documentation/extreme-platform-one-latest-documentation/).
+
+| Document | Markdown | PDF |
+| --- | --- | --- |
+| Aerohive API Migration Reference Guide Jun 2026 | [pages/support/Aerohive_API_Migration_Reference_Guide.md](pages/support/Aerohive_API_Migration_Reference_Guide.md) | [pdfs/Aerohive_API_Migration_Reference_Guide.pdf](pdfs/Aerohive_API_Migration_Reference_Guide.pdf) |
+| Extreme Agent ONE Coworker v9.3.0 Release Notes Oct 2026 | [pages/support/Extreme_Agent_ONE_Coworker_9_3_0_Release_Notes.md](pages/support/Extreme_Agent_ONE_Coworker_9_3_0_Release_Notes.md) | [pdfs/Extreme_Agent_ONE_Coworker_9_3_0_Release_Notes.pdf](pdfs/Extreme_Agent_ONE_Coworker_9_3_0_Release_Notes.pdf) |
+| Extreme Agent ONE Coworker v9.3.0 User Guide Oct 2026 | [pages/support/Extreme_Agent_ONE_Coworker_9_3_0_User_Guide.md](pages/support/Extreme_Agent_ONE_Coworker_9_3_0_User_Guide.md) | [pdfs/Extreme_Agent_ONE_Coworker_9_3_0_User_Guide.pdf](pdfs/Extreme_Agent_ONE_Coworker_9_3_0_User_Guide.pdf) |
+| Extreme Exchange v9.3.0 User Guide Oct 2026 | [pages/support/Extreme_Exchange_9_3_0_User_Guide.md](pages/support/Extreme_Exchange_9_3_0_User_Guide.md) | [pdfs/Extreme_Exchange_9_3_0_User_Guide.pdf](pdfs/Extreme_Exchange_9_3_0_User_Guide.pdf) |
+| Extreme Platform ONE Networking v25.14.0-331 (Patch 1) Release Notes Oct 2026 | [pages/support/Extreme_Platform_ONE_Networking_25_14_0_331_Patch_1_Release_Notes.md](pages/support/Extreme_Platform_ONE_Networking_25_14_0_331_Patch_1_Release_Notes.md) | [pdfs/Extreme_Platform_ONE_Networking_25_14_0_331_Patch_1_Release_Notes.pdf](pdfs/Extreme_Platform_ONE_Networking_25_14_0_331_Patch_1_Release_Notes.pdf) |
+| Extreme Platform ONE Networking v25.14.0-331 Release Notes Sep 2026 | [pages/support/Extreme_Platform_ONE_Networking_25_14_0_331_Release_Notes.md](pages/support/Extreme_Platform_ONE_Networking_25_14_0_331_Release_Notes.md) | [pdfs/Extreme_Platform_ONE_Networking_25_14_0_331_Release_Notes.pdf](pdfs/Extreme_Platform_ONE_Networking_25_14_0_331_Release_Notes.pdf) |
+| Extreme Platform ONE Networking v25.14.0 Universal Switch Deployment Guide Sep 2026 | [pages/support/Extreme_Platform_ONE_Networking_25_14_0_Universal_Switch_Deployment_Guide.md](pages/support/Extreme_Platform_ONE_Networking_25_14_0_Universal_Switch_Deployment_Guide.md) | [pdfs/Extreme_Platform_ONE_Networking_25_14_0_Universal_Switch_Deployment_Guide.pdf](pdfs/Extreme_Platform_ONE_Networking_25_14_0_Universal_Switch_Deployment_Guide.pdf) |
+| Extreme Platform ONE Networking v25.14.0 User Guide Sep 2026 | [pages/support/Extreme_Platform_ONE_Networking_25_14_0_User_Guide.md](pages/support/Extreme_Platform_ONE_Networking_25_14_0_User_Guide.md) | [pdfs/Extreme_Platform_ONE_Networking_25_14_0_User_Guide.pdf](pdfs/Extreme_Platform_ONE_Networking_25_14_0_User_Guide.pdf) |
+| Extreme Platform ONE Networking and ExtremeCloud IQ v25.14.0 Licensing Guide Sep 2026 | [pages/support/Extreme_Platform_ONE_Networking_and_ExtremeCloud_IQ_25_14_0_Subscription_Licensing_Guide.md](pages/support/Extreme_Platform_ONE_Networking_and_ExtremeCloud_IQ_25_14_0_Subscription_Licensing_Guide.md) | [pdfs/Extreme_Platform_ONE_Networking_and_ExtremeCloud_IQ_25_14_0_Subscription_Licensing_Guide.pdf](pdfs/Extreme_Platform_ONE_Networking_and_ExtremeCloud_IQ_25_14_0_Subscription_Licensing_Guide.pdf) |
+
 ## Guides
 
 - [guides/best-practices/error-handling.md](guides/best-practices/error-handling.md)
